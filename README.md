@@ -17,10 +17,11 @@ Our outputs support policymakers, public health programs, and the scientific com
 - Build a sustainable Southeast Asia–UK research network
 - Strengthen regional capacity in genomic epidemiology and bioinformatics
 
-## Consortium Countries
-- Malaysia
-- Indonesia
-- Philippines
+## Consortium Countries (Institutions)
+- Malaysia (Universiti Malaya, Malaysia)
+- Indonesia (Universitas Gadjah Mada, Indonesia)
+- Philippines (The Research Institute for Tropical Medicine, Philippines)
+- United Kingdom (University of Liverpool, Wellcome Sanger Institute)
 
 ## Repository Structure
 This GitHub organization hosts:
